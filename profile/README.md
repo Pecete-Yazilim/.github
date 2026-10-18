@@ -9,8 +9,6 @@
 
 Web ve mobil uygulama, ürün tasarımı ve MVP geliştirme · İstanbul
 
-[Web sitesi](https://[alanadı].com) · [LinkedIn](https://www.linkedin.com/company/[kullanici-adi]) · [Instagram](https://www.instagram.com/[kullanici-adi]) · [İletişim](mailto:[e-posta]@[alanadı].com)
-
 </div>
 
 ---
@@ -53,15 +51,6 @@ En iyi ürün fikirleri toplantı odasında değil, bir kafede, bir peçetenin a
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-121A2B?style=flat-square&logo=postgresql&logoColor=4169E1)
 ![Docker](https://img.shields.io/badge/Docker-121A2B?style=flat-square&logo=docker&logoColor=2496ED)
 ![Figma](https://img.shields.io/badge/Figma-121A2B?style=flat-square&logo=figma&logoColor=F24E1E)
-
-## 📌 Öne çıkan depolar
-
-<!-- Depolar açıldıkça doldurun -->
-
-| Depo | Açıklama |
-|---|---|
-| [`[depo-adi]`](https://github.com/[org-adi]/[depo-adi]) | [Kısa açıklama] |
-| [`[depo-adi]`](https://github.com/[org-adi]/[depo-adi]) | [Kısa açıklama] |
 
 ## 🤝 Birlikte çalışalım
 
