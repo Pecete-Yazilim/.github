@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="96" viewBox="0 0 360 96" role="img" aria-label="Peçete Yazılım">
+  <polygon points="12,8 30,8 30,88 12,88" fill="#F7F4EE"/>
+  <polygon points="30,8 66,28.8 30,49.6" fill="#5E78E4"/>
+  <text x="88" y="56" font-family="'Bricolage Grotesque','Helvetica Neue',Arial,sans-serif" font-weight="800" font-size="50" letter-spacing="-1.5" fill="#F7F4EE">peçete</text>
+  <text x="91" y="82" font-family="'IBM Plex Mono',Menlo,Consolas,monospace" font-size="15" letter-spacing="6" fill="#A7AFC2">yazılım</text>
+</svg>
