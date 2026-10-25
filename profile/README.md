@@ -52,15 +52,6 @@ En iyi ürün fikirleri toplantı odasında değil, bir kafede, bir peçetenin a
 ![Docker](https://img.shields.io/badge/Docker-121A2B?style=flat-square&logo=docker&logoColor=2496ED)
 ![Figma](https://img.shields.io/badge/Figma-121A2B?style=flat-square&logo=figma&logoColor=F24E1E)
 
-## 🤝 Birlikte çalışalım
-
-Aklında bir uygulama mı var? Peçeteni ya da fotoğrafını bize gönder, ilk görüşmede birlikte netleştirelim.
-
-📮 **[e-posta]@[alanadı].com** · 🌐 **[alanadı].com**
-
-Ekibimize katılmak istersen: **[kariyer]@[alanadı].com**
-
----
 
 <div align="center">
 <sub>© 2026 Peçete Yazılım · <code>&gt; peçeteye çizmeyin_</code></sub>
