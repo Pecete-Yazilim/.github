@@ -38,20 +38,6 @@ En iyi ürün fikirleri toplantı odasında değil, bir kafede, bir peçetenin a
 - **Önce dinle, sonra kodla.** En iyi çözüm bazen daha az özellikle gelir.
 - **Sade tut.** Kullanıcıyı düşündürmeyen arayüz, bakımı kolay kod.
 
-## 🧰 Teknolojiler
-
-<!-- Ekibinizin gerçekten kullandığı araçlarla güncelleyin -->
-
-![React](https://img.shields.io/badge/React-121A2B?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-121A2B?style=flat-square&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-121A2B?style=flat-square&logo=typescript&logoColor=3178C6)
-![React Native](https://img.shields.io/badge/React_Native-121A2B?style=flat-square&logo=react&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-121A2B?style=flat-square&logo=flutter&logoColor=02569B)
-![Node.js](https://img.shields.io/badge/Node.js-121A2B?style=flat-square&logo=nodedotjs&logoColor=5FA04E)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-121A2B?style=flat-square&logo=postgresql&logoColor=4169E1)
-![Docker](https://img.shields.io/badge/Docker-121A2B?style=flat-square&logo=docker&logoColor=2496ED)
-![Figma](https://img.shields.io/badge/Figma-121A2B?style=flat-square&logo=figma&logoColor=F24E1E)
-
 
 <div align="center">
 <sub>© 2026 Peçete Yazılım · <code>&gt; peçeteye çizmeyin_</code></sub>
